@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Swagger / API docs
+.swagger-cache/
+.swagger-mcp
+
+# Build outputs
+output/
+outputs/
+dist/
+
+# Test & temp
+test-project/
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
