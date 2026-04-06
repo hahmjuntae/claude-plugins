@@ -1,6 +1,6 @@
 # Claude Code Skills
 
-A collection of 21 custom skills for Claude Code to boost developer productivity.
+A collection of 19 custom skills for Claude Code to boost developer productivity.
 
 ## Installation
 
@@ -36,7 +36,6 @@ A collection of 21 custom skills for Claude Code to boost developer productivity
 |-------|-------------|---------|
 | [landing-page-guide-v2](./skills/landing-page-guide-v2/) | High-conversion landing page guide | `atelic@landing-page-guide-v2` |
 | [landing-page-guide](./skills/landing-page-guide/) | Landing page 11 essential elements guide | `atelic@landing-page-guide` |
-| [frontend-design](./skills/frontend-design/) | Production-grade frontend UI generation | `atelic@frontend-design` |
 | [design-prompt-generator-v2](./skills/design-prompt-generator-v2/) | 7-step design prompt generator for AI web builders | `atelic@design-prompt-generator-v2` |
 
 ### Card News & Images
@@ -62,7 +61,6 @@ A collection of 21 custom skills for Claude Code to boost developer productivity
 |-------|-------------|---------|
 | [codex-claude-cursor-loop](./skills/codex-claude-cursor-loop/) | Claude + Codex + Cursor triple AI loop | `atelic@codex-claude-cursor-loop` |
 | [codex-claude-loop](./skills/codex-claude-loop/) | Claude + Codex dual AI loop | `atelic@codex-claude-loop` |
-| [codex](./skills/codex/) | OpenAI Codex CLI wrapper | `atelic@codex` |
 
 ### Documentation & Utilities
 
